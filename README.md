@@ -1,7 +1,7 @@
 # sharetags
 Awesome WM plugin to share tags across multiple monitors
 
-extracted into a deployabel submodule from (lammermann/awesome-configs)[https://github.com/lammermann/awesome-configs]
+extracted into a deployabel submodule from [lammermann/awesome-configs](https://github.com/lammermann/awesome-configs)
 
 ## Installation
 
